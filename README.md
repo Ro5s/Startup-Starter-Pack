@@ -7,13 +7,13 @@ Listed resources should include:
 * Brief explanation
 * Template for fast deployment, from, e.g., [OpenLaw](https://openlaw.io/)
 
-## | Founders' Agreements | 
+## |= Founders' Agreements =| 
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Accord)
 
 *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
-## | Advisor Agreements | 
+## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Advisor%20Agreement)
 
