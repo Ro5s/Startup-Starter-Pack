@@ -21,4 +21,4 @@ If you are an attorney, software developer, or both, your comments would be welc
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License - see the [LICENSE.md](LICENSE.md) file for detail
+This project is licensed under MIT - see the [LICENSE.md](LICENSE.md) file for details.
