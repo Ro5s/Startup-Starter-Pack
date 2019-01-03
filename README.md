@@ -13,6 +13,11 @@ Listed resources should include (as available):
 
 *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
+## |= Incorporation =|
+* [**Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) / / [*OpenLaw Template*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
+
+*A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
+
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
 [.doc](https://www.docracy.com/word/263/7/founder-advisor-standard-template.doc) / / [.pdf](https://www.docracy.com/pdf/263/7) / / [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST))
