@@ -1,4 +1,4 @@
-# Startup-Starter-Pack
+# Startup Starter Pack
 Collection of model legal documents for common startup setup and fundraising needs.
 
 ## Founder's Agreements
