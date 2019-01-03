@@ -14,3 +14,11 @@ Listed resources should also include a template for fast deployment, from, e.g.,
 [*OpenLaw Template*](https://app.openlaw.io/template/Advisor%20Agreement)
 
 *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
+
+## Contributors / Contributions Welcome
+
+If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels. 
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License - see the [LICENSE.md](LICENSE.md) file for detail
