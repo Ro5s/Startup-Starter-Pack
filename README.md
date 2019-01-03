@@ -19,6 +19,11 @@ Listed resources should include:
 
 *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
 
+## |= Deal Basics =|
+* [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
+
+*A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
+
 ### Contributors / Contributions Welcome
 
 If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels - see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
