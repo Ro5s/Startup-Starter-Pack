@@ -19,6 +19,10 @@ Listed resources should also include a template for fast deployment, from, e.g.,
 
 If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels. 
 
+## Disclaimer
+
+NO ATTORNEY-CLIENT RELATIONSHIP OR LEGAL ADVICE: Communication of information by, in, to or through this project and your receipt or use of it (1) is not provided in the course of and does not create or constitute an attorney-client relationship, (2) is not intended as a solicitation, (3) is not intended to convey or constitute legal advice, and (4) is not a substitute for obtaining legal advice from a qualified attorney.
+
 ## License
 
 This project is licensed under MIT - see the [LICENSE.md](LICENSE.md) file for details.
