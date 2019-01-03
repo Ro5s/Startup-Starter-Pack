@@ -5,7 +5,7 @@ Listed resources should include:
 
 * Source
 * Brief explanation
-* Template for fast deployment, from, e.g., [OpenLaw](https://openlaw.io/)
+* Template(s) for fast deployment, e.g., .doc, .pdf, [*OpenLaw Template*](https://openlaw.io/)
 
 ## |= Founders' Agreements =| 
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / /
@@ -15,6 +15,7 @@ Listed resources should include:
 
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
+[.doc](https://www.docracy.com/word/263/7/founder-advisor-standard-template.doc) / / [.pdf](https://www.docracy.com/pdf/263/7) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Advisor%20Agreement)
 
 *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
