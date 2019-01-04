@@ -5,10 +5,10 @@ Listed resources should include (as available):
 
 * Source
 * Brief explanation
-* Template(s) for fast deployment, *e.g.*, .doc, .pdf, [*OpenLaw Template*](https://openlaw.io/)
+* Template(s) for fast deployment, *e.g.*, [.md](.github/Markdown), .doc, .pdf, [*OpenLaw Template*](https://openlaw.io/)
 
 ## |= Founders' Agreements =| 
-* [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
+* [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.md](.github/Markdown/Founder-Accord-MD.md) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Accord)
 
 *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
