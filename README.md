@@ -41,4 +41,4 @@ NO ATTORNEY-CLIENT RELATIONSHIP OR LEGAL ADVICE: Communication of information by
 
 ### License
 
-This project is licensed under MIT - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under MIT - see the [LICENSE.md](.github/MISC/LICENSE.md) file for details.
