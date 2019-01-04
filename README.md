@@ -13,6 +13,8 @@ Listed resources should include (as available):
 
 *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
+For additional details, see [Extended Founder Accord Description](.github/Founder-Accord-Description.md).
+
 ## |= Incorporation =|
 * [**Delaware Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA -long-form)](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
