@@ -33,7 +33,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ### Contributors / Contributions Welcome
 
-If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels - see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
+If you are an attorney, software developer, or both, your comments would be welcome. You can propose changes through GitHub or can contact me through other channels - see the [CONTRIBUTING.md](.github/MISC/CONTRIBUTING.md) file for details.
 
 ### Disclaimer
 
