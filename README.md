@@ -1,5 +1,5 @@
 # Startup Starter Pack
-Collection of model legal documents for typical startup setup and fundraising needs.
+Collection of model legal documents for typical startup setup and fundraising needs. See also ["Starters" Guide (WIP)](https://startup-starter-pack.gitbook.io/starters/).
 
 Listed resources should include (as available):
 
