@@ -24,7 +24,11 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
 
+* [**Common Stock Certificate**](https://app.openlaw.io/template/Common%20Stock%20Certificate)
+
+### (-> Deal
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
+
 
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
@@ -32,7 +36,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
 
-## |= Deal Basics =|
+## |= Business Basics =|
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
 
 *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
