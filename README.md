@@ -20,9 +20,20 @@ Listed resources should include (as available):
 For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ## |= Incorporation =|
-* [**Delaware Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
+
+### Delaware:
+
+* [**Action by Written Consent of Sole Incorporator**](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator)
+
+* [**Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
 *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
+
+* [**Action by Unanimous Written Consent**](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent)
+
+* [**Bylaws**](https://app.openlaw.io/template/Bylaws)
+
+* [**Certificate of Secretary**](https://app.openlaw.io/template/Certificate%20of%20Secretary)
 
 ### (-> Deal
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
