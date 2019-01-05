@@ -44,7 +44,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA long-form)](https://nvca.org/download/5091/) 
 
-* [**Series Seed Term Sheet**](https://www.cooleygo.com/documents/series-seed-equity-financing-package/) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) 
+* [**Series Seed Term Sheet**](https://www.cooleygo.com/documents/series-seed-equity-financing-package/) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
 
 * [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
