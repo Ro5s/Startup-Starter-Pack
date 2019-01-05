@@ -38,9 +38,13 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 ### (-> Deal
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
-## |= Fundraising =|
+## |= Financing =|
 
 * [**Common Stock Certificate**](https://app.openlaw.io/template/Common%20Stock%20Certificate)
+
+* [**Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA long-form)](https://nvca.org/download/5091/) 
+
+* [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
