@@ -48,6 +48,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
+* [**Series Seed Investor Questionnaire**]() / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire.md)
+
 * [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
 ## |= Advisor Agreements =| 
