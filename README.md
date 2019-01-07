@@ -18,7 +18,7 @@ Listed resources should include (as available):
 
 > *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
-For additional details, see [MBO Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
+For additional details, see [MBOB Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ## |=| Incorporation |=|
 
