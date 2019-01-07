@@ -22,11 +22,9 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ## |= Incorporation =|
 
-### Delaware:
-
 * [**Action by Written Consent of Sole Incorporator**](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator)
 
-Certificate of Incorporation:
+### Certificate of Incorporation:
 
 *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
 
@@ -60,6 +58,10 @@ Seed:
 Series A:
 
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
+
+### Board Consent:
+
+* [**Series Seed Board Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent.md)
 
 ### Stock Purchase Agreement:
 
