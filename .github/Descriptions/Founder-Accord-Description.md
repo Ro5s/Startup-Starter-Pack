@@ -1,5 +1,5 @@
 # Introducing the Founder Accord
-*Source*: https://www.mcoblaw.com/founder-accord
+> *Source*: https://www.mcoblaw.com/founder-accord
 
 With an impressively steady volume of new company formations, we have seen numerous variations on a few simple themes:
 
