@@ -51,7 +51,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 Seed: 
 
-* [**Series Seed Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
+* [**Series Seed Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet-Equity.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
 
 * [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
