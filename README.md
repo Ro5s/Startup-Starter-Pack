@@ -12,7 +12,7 @@ Listed resources should include (as available):
 > * Reference to complementary forms (*e.g.*, Openlaw ["Deal"](https://docs.openlaw.io/markup-language/#deals))
 > * *Representative Example(s)*
 
-## |= Founders' Agreements =| 
+## |=| Founders' Agreements |=| 
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.md](.github/Markdown/Founder-Accord-MD.md) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Accord)
 
@@ -20,7 +20,7 @@ Listed resources should include (as available):
 
 For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
-## |= Incorporation =|
+## |=| Incorporation |=|
 
 ### Action by Written Consent of Sole Incorporator:
 
@@ -55,7 +55,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 ### /***/ Incorporation Deals /***/
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
-## |= Financing =|
+## |=| Financing |=|
 
 > [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. This guide utilizes the Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity).
 
@@ -130,13 +130,13 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 
 * [**Series Seed Investor Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
 
-## |= Advisor Agreements =| 
+## |=| Advisor Agreements |=| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
 [.doc](https://www.docracy.com/word/263/7/founder-advisor-standard-template.doc) / / [.pdf](https://www.docracy.com/pdf/263/7) / / [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST))
 
 > *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
 
-## |= Business Basics =|
+## |=| Business Basics |=|
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
