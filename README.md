@@ -15,10 +15,10 @@ Listed resources should include (as available):
 ## Starters:
 > Tailored sets of agreements for common startup needs 🚀:
 
-* 🏗️*Set your Business Up*: [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Incorporation Deal includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
+* 🏗️*Get Incorporated*: [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Incorporation Deal includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
 ## Library:
-> Ongoing sourcing of model forms for comparison and combination into "Starter" agreement sets 👆:
+> Ongoing sourcing of model forms for comparison and combination into "Starters" sets 👆:
 
 ### |=| Founders' Agreements |=| 
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.md](.github/Markdown/Founder-Accord-MD.md) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
@@ -85,7 +85,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 * [**SAFE: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
 * [**SAFE: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
-/ / [***Pro Rata Side Letter***](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+> [***Pro Rata Side Letter***](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
 For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
@@ -155,6 +155,8 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
+
+* [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
 
 * [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
 
