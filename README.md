@@ -34,6 +34,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars Series AA Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
 
+* [**Y-Combinator Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
+
 * [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
 ### Action by Unanimous Written Consent:
@@ -87,6 +89,10 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
+### Investors' Rights Agreement:
+
+* [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
+
 ### Simple Agreement for Future Equity (SAFE)
 
 * [**Safe: Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
@@ -114,6 +120,8 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 
 * [**Techstars Board Consent (Equity)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
+* * [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
+
 ### Stockholder Consent:
 
 * [**Series Seed Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
@@ -134,6 +142,10 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
+
+* [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
+
+> *In 2015, Y Combinator open sourced its sales template for the benefit of all startups. The sales template here is specially tailored for software-as-a-service (SaaS) startups – i.e. companies who charge for cloud software on a subscription basis.* 
 
 ### Contributors / Contributions Welcome
 
