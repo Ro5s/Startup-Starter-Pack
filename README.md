@@ -3,6 +3,9 @@
 
 Collection of model legal documents for typical startup setup and fundraising needs. See also ["Starters" Guide (WIP)](https://startup-starter-pack.gitbook.io/starters/).
 
+> The problem, as Brad Feld points out, is that nobody has done the work to get all the various players in the room and standardize on one form. . . I guess it's like open source software in that there are many flavors of it out there. One project might choose MongoDB for their project. Another might choose Cassandra. A third might choose Hadoop. All will get the job done and all are open source. But each one has its strengths and weaknesses and there is no standard. That's ok with me as long as everyone understands it.
+> * Fred Wilson, AVC ["Standardized Venture Funding Docs"](https://avc.com/2010/03/standardized-venture-funding-docs/)
+
 Listed resources should include (as available):
 
 > * [**Source**]()
