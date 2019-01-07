@@ -44,7 +44,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars - Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
    
-### |💰| Financing |📜|
+### |📜| Financing |💰|
 
 > [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. Startup Starter Pack utilizes Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity), as this set reflects more recent updates.
 
