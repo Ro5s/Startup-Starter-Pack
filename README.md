@@ -79,7 +79,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
 
-* [**Series Seed Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Note.md)
+* [**Series Seed Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Convertible-Note.md)
 
 ### Stockholder Consent:
 
