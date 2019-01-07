@@ -16,7 +16,7 @@ Listed resources should include (as available):
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.md](.github/Markdown/Founder-Accord-MD.md) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
 [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Accord)
 
-*A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
+> *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
 For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
@@ -28,7 +28,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ### Certificate of Incorporation:
 
-*A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
+> *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
 
 * [**Series Seed Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
 
