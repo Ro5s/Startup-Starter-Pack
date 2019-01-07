@@ -67,10 +67,6 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > *See also*, CooleyGO, ["WHAT IS THE DIFFERENCE BETWEEN “FRIENDS AND FAMILY”, SEED AND SERIES A FINANCINGS?"](https://www.cooleygo.com/difference-friends-family-seed-series-financings/)
 
-### Stock Certificate:
-
-* [**Common Stock Certificate**](https://app.openlaw.io/template/Common%20Stock%20Certificate)
-
 ### Term Sheet:
 
 * [**Series Seed Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet-Equity.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
@@ -83,22 +79,18 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ### Stock Purchase Agreement:
 
-* [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
-
-[*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
+* [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md) / / [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
 
 * [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
-### Investors' Rights Agreement:
-
-* [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
+* [**Y-Combinator Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
 
 ### Simple Agreement for Future Equity (SAFE)
 
-* [**Safe: Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
-* [**Safe: Discount, no Valuation Cap**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
-* [**Safe: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
-* [**Safe: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
+* [**SAFE: Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
+* [**SAFE: Discount, no Valuation Cap**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
+* [**SAFE: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
+* [**SAFE: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
 / / [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
@@ -118,13 +110,19 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 
 * [**Series Seed Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Convertible-Note.md)
 
-* [**Techstars Board Consent (Equity)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
+* [**Techstars Series AA Board Consent**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
 * * [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
 
 ### Stockholder Consent:
 
 * [**Series Seed Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
+
+* [**Y-Combinator Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
+
+### Investors' Rights Agreement:
+
+* [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
 
 ### Investor Suitability Questionnaire: 
 
