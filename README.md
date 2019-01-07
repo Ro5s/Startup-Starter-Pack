@@ -32,6 +32,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
 
+* [**Techstars Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
+
 * [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
 ### Action by Unanimous Written Consent:
@@ -42,6 +44,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Bylaws**](https://app.openlaw.io/template/Bylaws)
 
+* [**Techstars Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
+
 ### Certificate of Secretary:
 
 * [**Certificate of Secretary**](https://app.openlaw.io/template/Certificate%20of%20Secretary)
@@ -51,11 +55,13 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ## |= Financing =|
 
-> **Series Seed**: a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. 
+> [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. This guide utilizes the Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity).
 
-> **[Techstars](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/)**: a set of model documents for an angel or seed financing in the $250k-$2M range (represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them).
+> [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them).
 
 > **NVCA**: [ _ ]
+
+> *See also*, CooleyGO, ["WHAT IS THE DIFFERENCE BETWEEN “FRIENDS AND FAMILY”, SEED AND SERIES A FINANCINGS?"](https://www.cooleygo.com/difference-friends-family-seed-series-financings/)
 
 ### Stock Certificate:
 
@@ -67,13 +73,17 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
+* [**Techstars Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
+
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
-### Preferred Stock Investment Agreement:
+### Stock Purchase Agreement:
 
 * [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
 
-[*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X) 
+[*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
+
+* [**Techstars Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
 * [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
@@ -81,11 +91,17 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
 
+* [**Techstars Convertible Promissory Note Purchase Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Note_Purchase_Agreement1.doc)
+
+* [**Techstars Convertible Promissory Note**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Convertible_Note1.doc)
+
 ### Board Consent:
 
 * [**Series Seed Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
 
 * [**Series Seed Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Convertible-Note.md)
+
+* [**Techstars Board Consent (Equity)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
 ### Stockholder Consent:
 
