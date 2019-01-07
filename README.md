@@ -52,7 +52,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (*represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them*).
 
-> [**Y-Combinator**](): [ _ ]
+> [**Y-Combinator**](https://old.ycombinator.com/seriesaa/): a set of Series AA Equity Financing Documents originally created for YC-funded startups to use when raising equity rounds with angels, with the goal of making these financings easier and more streamlined for both sides. 
 
 > [**National Venture Capital Association (NVCA)**](): a "template" set of model legal documents for venture capital investments put together by a group of leading venture capital attorneys. 
 
