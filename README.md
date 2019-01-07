@@ -53,6 +53,10 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > **Series Seed**: a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. 
 
+> **Techstars**: (Open Sourced) Model Seed Financing Documents.
+
+> **NVCA**: [ _ ]
+
 ### Stock Certificate:
 
 * [**Common Stock Certificate**](https://app.openlaw.io/template/Common%20Stock%20Certificate)
