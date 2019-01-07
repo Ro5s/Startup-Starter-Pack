@@ -56,9 +56,9 @@ Series A:
 
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
-### Stock Purchase Agreement
+### Stock Purchase Agreement:
 
-* [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md
+* [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
 
 ### Investor Questionnaire: 
 
