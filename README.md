@@ -120,6 +120,10 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 
 * [**Y-Combinator Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
 
+### Voting Agreement:
+
+* [**NVCA Series A Voting Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5094/)
+
 ### Investors' Rights Agreement:
 
 * [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
