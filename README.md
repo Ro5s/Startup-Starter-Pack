@@ -83,7 +83,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ### Stockholder Consent:
 
-* [**Series Seed Stockholder Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
+* [**Series Seed Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
 
 ### Investor Suitability Questionnaire: 
 
