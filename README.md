@@ -32,7 +32,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
 
-* [**Techstars Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
+* [**Techstars Series AA Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
 
 * [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
@@ -44,7 +44,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Bylaws**](https://app.openlaw.io/template/Bylaws)
 
-* [**Techstars Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
+* [**Techstars Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
 
 ### Certificate of Secretary:
 
@@ -73,7 +73,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
-* [**Techstars Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
+* [**Techstars Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
 
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
@@ -83,9 +83,18 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
 
-* [**Techstars Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
+* [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
-* [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
+### [Simple Agreement for Future Equity (SAFE)**](https://www.ycombinator.com/documents/#safe)
+
+* *Safe: Valuation Cap, no Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
+* *Safe: Discount, no Valuation Cap* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
+* *Safe: Valuation Cap and Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
+* *Safe: MFN, no Valuation Cap, no Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
+
+/ / *Pro Rata Side Letter* / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+
+For additional details, see [Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
 ### Convertible Promissory Note:
 
