@@ -85,7 +85,7 @@ Series A:
 
 * [**Series Seed Investor Questionnaire (Equity)**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Equity.md)
 
-* [**Series Seed Investory Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
+* [**Series Seed Investor Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
 
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
