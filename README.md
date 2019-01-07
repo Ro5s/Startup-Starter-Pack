@@ -65,6 +65,10 @@ Series A:
 
 [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X) 
 
+* [**Series Seed Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
+
+* [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
+
 ### Board Consent:
 
 * [**Series Seed Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
@@ -73,15 +77,11 @@ Series A:
 
 ### Stockholder Consent:
 
-* [**Series Seed Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
+* [**Series Seed Stockholder Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
 
 ### Investor Questionnaire: 
 
 * [**Series Seed Investor Questionnaire**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire.md)
-
-### Simple Agreement for Future Equity (SAFE):
-
-* [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
 ## |= Advisor Agreements =| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
