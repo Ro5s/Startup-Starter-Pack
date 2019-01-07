@@ -26,9 +26,13 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Action by Written Consent of Sole Incorporator**](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator)
 
-* [**Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
+Certificate of Incorporation:
 
 *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
+
+* [**Series Seed Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
+
+* [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
 * [**Action by Unanimous Written Consent**](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent)
 
