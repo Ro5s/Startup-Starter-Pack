@@ -52,7 +52,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Certificate of Secretary**](https://app.openlaw.io/template/Certificate%20of%20Secretary)
 
-### *** Deal ***
+### /***/ Incorporation Deals /***/
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
 ## |= Financing =|
