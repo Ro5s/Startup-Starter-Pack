@@ -57,13 +57,13 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ## |=| Financing |=|
 
-> [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. This guide utilizes the Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity).
+> [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. Startup Starter Pack utilizes Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity), as this set reflects more recent updates.
 
-> [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them).
+> [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (*represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them*).
 
 > [**Y-Combinator**](): [ _ ]
 
-> [**NVCA**](): [ _ ]
+> [**National Venture Capital Association (NVCA)**](): a "template" set of model legal documents for venture capital investments put together by a group of leading venture capital attorneys. 
 
 > *See also*, CooleyGO, ["WHAT IS THE DIFFERENCE BETWEEN “FRIENDS AND FAMILY”, SEED AND SERIES A FINANCINGS?"](https://www.cooleygo.com/difference-friends-family-seed-series-financings/)
 
@@ -112,7 +112,7 @@ For additional details, see [Extended SAFE Description](https://www.ycombinator.
 
 * [**Techstars Series AA Board Consent**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
-* * [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
+* [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
 
 ### Stockholder Consent:
 
