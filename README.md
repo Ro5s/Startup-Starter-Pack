@@ -95,7 +95,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
 [.doc](https://www.docracy.com/word/263/7/founder-advisor-standard-template.doc) / / [.pdf](https://www.docracy.com/pdf/263/7) / / [*OpenLaw Template*](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST))
 
-*Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
+> *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
 
 ## |= Business Basics =|
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
