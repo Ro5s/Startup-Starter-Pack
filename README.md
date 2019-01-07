@@ -59,15 +59,15 @@ Series A:
 
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
-### Board Consent:
-
-* [**Series Seed Board Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent.md)
-
 ### Stock Purchase Agreement:
 
 * [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
 
 [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X) 
+
+### Board Consent:
+
+* [**Series Seed Board Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent.md)
 
 ### Investor Questionnaire: 
 
