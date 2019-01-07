@@ -59,7 +59,9 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them).
 
-> **NVCA**: [ _ ]
+> [**Y-Combinator**](): [ _ ]
+
+> [**NVCA**](): [ _ ]
 
 > *See also*, CooleyGO, ["WHAT IS THE DIFFERENCE BETWEEN “FRIENDS AND FAMILY”, SEED AND SERIES A FINANCINGS?"](https://www.cooleygo.com/difference-friends-family-seed-series-financings/)
 
@@ -85,14 +87,14 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
-### [Simple Agreement for Future Equity (SAFE)**](https://www.ycombinator.com/documents/#safe)
+### Simple Agreement for Future Equity (SAFE)
 
-* *Safe: Valuation Cap, no Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
-* *Safe: Discount, no Valuation Cap* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
-* *Safe: Valuation Cap and Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
-* *Safe: MFN, no Valuation Cap, no Discount* / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
+* [**Safe: Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
+* [**Safe: Discount, no Valuation Cap**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
+* [**Safe: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
+* [**Safe: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
-/ / *Pro Rata Side Letter* / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+/ / [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
 For additional details, see [Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
