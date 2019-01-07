@@ -22,6 +22,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ## |= Incorporation =|
 
+### Action by Written Consent of Sole Incorporator:
+
 * [**Action by Written Consent of Sole Incorporator**](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator)
 
 ### Certificate of Incorporation:
@@ -32,13 +34,19 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
 
+### Action by Unanimous Written Consent
+
 * [**Action by Unanimous Written Consent**](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent)
+
+### Bylaws
 
 * [**Bylaws**](https://app.openlaw.io/template/Bylaws)
 
+### Certificate of Secretary
+
 * [**Certificate of Secretary**](https://app.openlaw.io/template/Certificate%20of%20Secretary)
 
-### (-> Deal
+### (-> * Deal *
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
 ## |= Financing =|
