@@ -18,7 +18,7 @@ Listed resources should include (as available):
 
 > *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
-For additional details, see [MCOB Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
+For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ## |=| Incorporation |=|
 
@@ -26,17 +26,17 @@ For additional details, see [MCOB Extended Founder Accord Description](.github/D
 
 > *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
 
-* [**Series Seed Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
+* [**Series Seed - Restated Certificate of Incorporation**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Restated%20Certificate%20of%20Incorporation.md) / / [.md](.github/Markdown/Series-Seed-Restated-Certificate-of-Incorporation.md)
 
-* [**Techstars Series AA Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
+* [**Techstars - Series AA Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
 
-* [**Y-Combinator Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
+* [**Y-Combinator - Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
 
-* [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) 
+* [**NVCA - Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) 
 
 ### Bylaws:
 
-* [**Techstars Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
+* [**Techstars - Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
 
 ### /***/ Incorporation Deals /***/
 * [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
@@ -55,23 +55,23 @@ For additional details, see [MCOB Extended Founder Accord Description](.github/D
 
 ### Term Sheet:
 
-* [**Series Seed Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet-Equity.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
+* [**Series Seed - Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet-Equity.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
 
-* [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
+* [**Series Seed - Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
-* [**Techstars Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
+* [**Techstars - Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
 
-* [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
+* [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
 ### Stock Purchase Agreement:
 
-* [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md) / / [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
+* [**Series Seed - Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md) / / [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
 
-* [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
+* [**Techstars - Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
-* [**Y-Combinator Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
+* [**Y-Combinator - Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
 
-* [**NVCA Series A Stock Purchase Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5088/)
+* [**NVCA - Series A Stock Purchase Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5088/)
 
 ### Simple Agreement for Future Equity (SAFE)
 > Y-Combinator forms:
@@ -86,59 +86,59 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 ### Convertible Promissory Note:
 
-* [**Series Seed Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
+* [**Series Seed - Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
 
-* [**Techstars Convertible Promissory Note Purchase Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Note_Purchase_Agreement1.doc)
+* [**Techstars - Convertible Promissory Note Purchase Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Note_Purchase_Agreement1.doc)
 
-* [**Techstars Convertible Promissory Note**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Convertible_Note1.doc)
+* [**Techstars - Convertible Promissory Note**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Forms_-_Convertible_Note1.doc)
 
 ### Board Consent:
 
-* [**Series Seed Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
+* [**Series Seed - Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
 
-* [**Series Seed Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Convertible-Note.md)
+* [**Series Seed - Board Consent (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Convertible-Note.md)
 
-* [**Techstars Series AA Board Consent**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
+* [**Techstars - Series AA Board Consent**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
 * [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
 
 ### Stockholder Consent:
 
-* [**Series Seed Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
+* [**Series Seed - Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
 
-* [**Y-Combinator Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
+* [**Y-Combinator - Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
 
 ### Voting Agreement:
 
-* [**NVCA Series A Voting Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5094/)
+* [**NVCA - Series A Voting Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5094/)
 
 ### Right of First Refusal and Co-Sale Agreement:
 
-* [**NVCA Series A Right of First Refusal and Co-Sale Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5085/)
+* [**NVCA - Series A Right of First Refusal and Co-Sale Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5085/)
 
 ### Model Legal Opinion:
 
-* [**NVCA Model Legal Opinion**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5082/)
+* [**NVCA - Model Legal Opinion**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5082/)
 
 ### Management Rights Letter:
 
-* [**NVCA Management Rights Letter**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5070/)
+* [**NVCA - Management Rights Letter**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5070/)
 
 ### Investors' Rights Agreement:
 
 * [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
 
-* [**NVCA Series A Investor Rights Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5066/)
+* [**NVCA - Series A Investor Rights Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5066/)
 
 ### Investor Suitability Questionnaire: 
 
-* [**Series Seed Investor Questionnaire (Equity)**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Equity.md)
+* [**Series Seed - Investor Questionnaire (Equity)**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Equity.md)
 
-* [**Series Seed Investor Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
+* [**Series Seed - Investor Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
 
 ### Indemnification Agreement:
 
-* [**NVCA Indemnification Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5063/)
+* [**NVCA - Indemnification Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5063/)
 
 ## |=| Advisor Agreements |=| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
