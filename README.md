@@ -5,12 +5,12 @@ Collection of model legal documents for typical startup setup and fundraising ne
 
 Listed resources should include (as available):
 
-* [**Source**]()
-* *Brief explanation*
-* / / Template(s) for fast deployment, *e.g.*, [.md](.github/Markdown), [.doc](.github/.DOC), [.pdf](.github/.PDF/), [*OpenLaw Template*](https://openlaw.io/)
-* [Extended description](.github/Descriptions/) for further reference.
-* Reference to complementary forms (*e.g.*, Openlaw ["Deal"](https://docs.openlaw.io/markup-language/#deals))
-* *Representative Example(s)*
+> * [**Source**]()
+> * *Brief explanation*
+> * / / Template(s) for fast deployment, *e.g.*, [.md](.github/Markdown), [.doc](.github/.DOC), [.pdf](.github/.PDF/), [*OpenLaw Template*](https://openlaw.io/)
+> * [Extended description](.github/Descriptions/) for further reference.
+> * Reference to complementary forms (*e.g.*, Openlaw ["Deal"](https://docs.openlaw.io/markup-language/#deals))
+> * *Representative Example(s)*
 
 ## |= Founders' Agreements =| 
 * [**Founder Accord**](https://www.mcoblaw.com/founder-accord) / / [.md](.github/Markdown/Founder-Accord-MD.md) / / [.doc](https://www.mcoblaw.com/s/Founder-Accord_Template.docx) / /
