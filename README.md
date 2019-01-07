@@ -18,7 +18,7 @@ Listed resources should include (as available):
 
 > *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
-For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
+For additional details, see [MBO Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ## |=| Incorporation |=|
 
@@ -86,15 +86,15 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 * [**Y-Combinator Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
 
 ### Simple Agreement for Future Equity (SAFE)
-
+> Y-Combinator forms:
 * [**SAFE: Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20-%20v1.0.docx)
 * [**SAFE: Discount, no Valuation Cap**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Discount%20Only%20-%20v1.0.docx)
 * [**SAFE: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
 * [**SAFE: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
-/ / [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+/ / [***Pro Rata Side Letter***](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
-For additional details, see [Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
+For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
 ### Convertible Promissory Note:
 
