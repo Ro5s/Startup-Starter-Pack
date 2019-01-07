@@ -66,6 +66,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars - Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
 
+* [**Y-Combinator - Series AA Term Sheet**](https://www.docracy.com/5/y-combinator-series-aa-termsheet) / / [.doc](https://www.docracy.com/word/5/3/y-combinator-series-aa-termsheet.doc) / / [.pdf](https://www.docracy.com/pdf/5/3)
+
 * [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
 #### Stock Purchase Agreement:
@@ -85,7 +87,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 * [**SAFE: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
 * [**SAFE: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
-> [***Pro Rata Side Letter***](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+> [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
 For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
