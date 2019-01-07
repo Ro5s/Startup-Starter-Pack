@@ -67,7 +67,7 @@ Series A:
 
 ### Board Consent:
 
-* [**Series Seed Board Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent.md)
+* [**Series Seed Board Consent (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Board%20Consent.md) / / [.md](.github/Markdown/Series-Seed-Board-Consent-Equity.md)
 
 ### Stockholder Consent:
 
