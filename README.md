@@ -53,7 +53,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > **Series Seed**: a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. 
 
-> **Techstars**: (Open Sourced) Model Seed Financing Documents.
+> **[Techstars](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/)**: a set of model documents for an angel or seed financing in the $250k-$2M range (represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them).
 
 > **NVCA**: [ _ ]
 
