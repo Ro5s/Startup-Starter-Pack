@@ -100,7 +100,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 ## |= Business Basics =|
 * [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
 
-*A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
+> *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
 
 ### Contributors / Contributions Welcome
 
