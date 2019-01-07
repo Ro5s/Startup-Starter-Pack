@@ -18,13 +18,9 @@ Listed resources should include (as available):
 
 > *A simple, plain English, short document that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.* 
 
-For additional details, see [MBOB Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
+For additional details, see [MCOB Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ## |=| Incorporation |=|
-
-### Action by Written Consent of Sole Incorporator:
-
-* [**Action by Written Consent of Sole Incorporator**](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator)
 
 ### Certificate of Incorporation:
 
@@ -36,24 +32,14 @@ For additional details, see [MBOB Extended Founder Accord Description](.github/D
 
 * [**Y-Combinator Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
 
-* [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc (NVCA (long-form))](https://nvca.org/download/5059/) / / [*OpenLaw Template (short-form)*](https://app.openlaw.io/template/Certificate%20of%20Incorporation)
-
-### Action by Unanimous Written Consent:
-
-* [**Action by Unanimous Written Consent**](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent)
+* [**NVCA Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) 
 
 ### Bylaws:
 
-* [**Bylaws**](https://app.openlaw.io/template/Bylaws)
-
 * [**Techstars Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
 
-### Certificate of Secretary:
-
-* [**Certificate of Secretary**](https://app.openlaw.io/template/Certificate%20of%20Secretary)
-
 ### /***/ Incorporation Deals /***/
-* [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
+* [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): An OpenLaw 'Deal' is essentially a collection of linked agreement templates. This Incorporation Deal (Delaware) includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
 
 ## |=| Financing |=|
 
@@ -84,6 +70,8 @@ For additional details, see [MBOB Extended Founder Accord Description](.github/D
 * [**Techstars Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
 * [**Y-Combinator Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
+
+* [**NVCA Series A Stock Purchase Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5088/)
 
 ### Simple Agreement for Future Equity (SAFE)
 > Y-Combinator forms:
@@ -124,15 +112,33 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 * [**NVCA Series A Voting Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5094/)
 
+### Right of First Refusal and Co-Sale Agreement:
+
+* [**NVCA Series A Right of First Refusal and Co-Sale Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5085/)
+
+### Model Legal Opinion:
+
+* [**NVCA Model Legal Opinion**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5082/)
+
+### Management Rights Letter:
+
+* [**NVCA Management Rights Letter**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5070/)
+
 ### Investors' Rights Agreement:
 
 * [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
+
+* [**NVCA Series A Investor Rights Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5066/)
 
 ### Investor Suitability Questionnaire: 
 
 * [**Series Seed Investor Questionnaire (Equity)**](https://github.com/CooleyLLP/seriesseed) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Equity.md)
 
 * [**Series Seed Investor Questionnaire (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Investor%20Questionnaire.md) / / [.md](.github/Markdown/Series-Seed-Investor-Questionnaire-Convertible-Note.md)
+
+### Indemnification Agreement:
+
+* [**NVCA Indemnification Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5063/)
 
 ## |=| Advisor Agreements |=| 
 * [**Founder Advisor Standard Template (FAST)**](https://www.docracy.com/263/founder-advisor-standard-template) / /
