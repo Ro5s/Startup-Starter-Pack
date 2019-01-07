@@ -57,17 +57,13 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 ### Term Sheet:
 
-Seed: 
-
 * [**Series Seed Term Sheet (Equity)**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Term%20Sheet.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Term-Sheet-Equity.md) / / [.doc](https://www.seriesseed.com/files/series-seed---term-sheet-v-3-2.doc) / / [*OpenLaw Template*](https://app.openlaw.io/template/Term%20Sheet) 
 
 * [**Series Seed Term Sheet (Convertible Note)**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Term%20Sheet.md) / / [.md](.github/Markdown/Series-Seed-Term-Sheet-Convertible-Note.md)
 
-Series A:
-
 * [**NVCA Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
-### Stock Purchase Agreement:
+### Preferred Stock Investment Agreement:
 
 * [**Series Seed Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
 
@@ -75,7 +71,7 @@ Series A:
 
 * [**Simple Agreement for Future Equity (SAFE)**](https://app.openlaw.io/template/Simple%20Agreement%20for%20Future%20Equity%20(SAFE))
 
-### Convertible Note:
+### Convertible Promissory Note:
 
 * [**Series Seed Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
 
