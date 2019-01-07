@@ -87,7 +87,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 * [**SAFE: Valuation Cap and Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20Valuation%20Cap%20and%20Discount%20-%20v1.0.docx)
 * [**SAFE: MFN, no Valuation Cap, no Discount**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Postmoney%20Safe%20-%20MFN%20Only%20-%20v1.0.docx)
 
-> [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
+> optional: [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
 For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
