@@ -9,8 +9,6 @@ Listed resources should include (as available):
 > * *Brief explanation*
 > * / / Template(s) for fast deployment, *e.g.*, [.md](.github/Markdown), [.doc](.github/.DOC), [.pdf](.github/.PDF/), [*OpenLaw Template*](https://openlaw.io/)
 > * [Extended description](.github/Descriptions/) for further reference.
-> * Reference to complementary forms (*e.g.*, Openlaw ["Deal"](https://docs.openlaw.io/markup-language/#deals))
-> * *Representative Example(s)*
 
 ## ⚡ Starters:
 > Tailored sets of agreements for common startup needs 🚀:
@@ -72,7 +70,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 #### Stock Purchase Agreement:
 
-* [**Series Seed - Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md) / / [*Representative Example (.pdf)*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwi3ga7T8dvfAhVymeAKHWIlAKYQFjANegQIARAC&url=https%3A%2F%2Fwww.seedinvest.com%2Fguestof%2Fseed%2Ffile%2F89658%2Fdownload&usg=AOvVaw3DpS51GuxC_dia0Tz62L1X)
+* [**Series Seed - Preferred Stock Investment Agreement**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Preferred%20Stock%20Investment%20Agreement.md) / / [.md](.github/Markdown/Series-Seed-Preferred-Stock-Investment-Agreement.md)
 
 * [**Techstars - Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
