@@ -164,6 +164,8 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 * [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
 
+* [**Privacy Policy**](https://app.openlaw.io/template/Privacy%20Policy)
+
 * [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
 
 > *In 2015, Y Combinator open sourced its sales template for the benefit of all startups. The sales template here is specially tailored for software-as-a-service (SaaS) startups – i.e. companies who charge for cloud software on a subscription basis.* 
