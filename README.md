@@ -17,7 +17,10 @@ Listed resources should include (as available):
 > Tailored sets of agreements for common startup needs 🚀:
 
 * 🏗️*Get Incorporated*: 
-📋 [**OpenLaw - Incorporation Deal (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Incorporation Deal includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).   
+📋 [**Incorporation Package (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Incorporation Package includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).
+
+* 💻*Get online*:
+📋 [**Website Package**](https://app.openlaw.io/template/Deal%3A%20Terms%20of%20Use%20%26%20Privacy%20Policy): This Website Package includes simple forms for: (i) [Terms of Use](https://app.openlaw.io/template/Terms%20of%20Use), and (ii) [Privacy Policy](https://app.openlaw.io/template/Privacy%20Policy).
 
 ## 📚 Library:
 > Ongoing sourcing of model forms for comparison and combination into "Starters" sets 👆:
@@ -164,7 +167,8 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 * [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
 
-* [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [OpenLaw Template](https://app.openlaw.io/template/Privacy%20Policy)
+* [**Terms of Use**](https://openlaw.io/terms?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Terms%20of%20Use)
+* [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Privacy%20Policy)
 
 * [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
 
