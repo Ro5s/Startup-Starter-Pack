@@ -17,7 +17,7 @@ Listed resources should include (as available):
 > Tailored sets of agreements for common startup needs 🚀:
 
 * 💪*Get serious*:
-📋 [**Founder Accord**](https://www.mcoblaw.com/founder-accord): This template consists of a simple, short, plain English founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.   
+📋 [**Founder Accord**](https://www.mcoblaw.com/founder-accord): This template consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.   
 
 * 🏗️*Get incorporated*: 
 📋 [**Incorporation Package (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Incorporation Package includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).
