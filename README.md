@@ -103,7 +103,9 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 #### 📋 Shared Earnings Agreement:
 
-* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit)  
+* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit) 
+
+> see: [SEAL Calculator](https://docs.google.com/spreadsheets/d/1h_L7oa3rbV8P-ZnMM-l1fY5zc97GetYkRjQ_zCi6by4/edit#gid=0)
 
 #### 📋 Convertible Promissory Note:
 
