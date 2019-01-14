@@ -101,6 +101,10 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
 
+#### 📋 Shared Earnings Agreement:
+
+* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit)  
+
 #### 📋 Convertible Promissory Note:
 
 * [**Series Seed - Convertible Promissory Note**](https://github.com/CooleyLLP/seriesseed/blob/master/notes/Series%20Seed%20Notes%20-%20Convertible%20Promissory%20Note.md) / / [.md](.github/Markdown/Series-Seed-Convertible-Promissory-Note.md)
