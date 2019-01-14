@@ -78,6 +78,10 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
+* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit) 
+
+> see: [SEAL Calculator](https://docs.google.com/spreadsheets/d/1h_L7oa3rbV8P-ZnMM-l1fY5zc97GetYkRjQ_zCi6by4/edit#gid=0)
+
 * [**Founder Institute - Plain Preferred Term Sheet**](https://fi.co/insight/new-plain-preferred-term-sheet) / / [.doc](https://drive.google.com/file/d/0BwNfGKCf8sfbRzRRc1UtQzhETE0/view)
 
 #### 📋 Stock Purchase Agreement:
@@ -100,12 +104,6 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 > optional: [**Pro Rata Side Letter**](https://www.ycombinator.com/documents/#safe) / / [.doc](https://www.ycombinator.com/docs/Pro%20Rata%20Side%20Letter.docx)
 
 For additional details, see [YC Extended SAFE Description](https://www.ycombinator.com/docs/Post%20Money%20Safe%20User%20Guide.pdf).
-
-#### 📋 Shared Earnings Agreement:
-
-* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit) 
-
-> see: [SEAL Calculator](https://docs.google.com/spreadsheets/d/1h_L7oa3rbV8P-ZnMM-l1fY5zc97GetYkRjQ_zCi6by4/edit#gid=0)
 
 #### 📋 Convertible Promissory Note:
 
