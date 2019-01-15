@@ -83,6 +83,8 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > see: [SEAL Calculator](https://docs.google.com/spreadsheets/d/1h_L7oa3rbV8P-ZnMM-l1fY5zc97GetYkRjQ_zCi6by4/edit#gid=0)
 
+For additional details, see [Extended SEA Description](.github/Descriptions/SEA-Description.md).
+
 * [**Founder Institute - Plain Preferred Term Sheet**](https://fi.co/insight/new-plain-preferred-term-sheet) / / [.doc](https://drive.google.com/file/d/0BwNfGKCf8sfbRzRRc1UtQzhETE0/view)
 
 #### 📋 Stock Purchase Agreement:
