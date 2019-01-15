@@ -1,4 +1,5 @@
 # Startup Starter Pack ⚡
+[![Website](https://img.shields.io/badge/Website-ssp-brightgreen.svg)](https://startup-starter-pack.gitbook.io/starters/)
 [![Gitter chat](https://badges.gitter.im/Startup-Upstarts/community.png)](https://gitter.im/Startup-Upstarts/community)
 
 Collection of model legal documents for typical startup setup and fundraising needs. See also ["Starters" Guide (WIP)](https://startup-starter-pack.gitbook.io/starters/).
