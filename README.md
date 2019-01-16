@@ -38,8 +38,8 @@ Listed resources should include (as available):
 For additional details, see [Extended Founder Accord Description](.github/Descriptions/Founder-Accord-Description.md).
 
 ### |🏗️| Incorporation |🏛️|
-
-#### 📋 Certificate of Incorporation:
+#### Corp.:
+##### 📋 Certificate of Incorporation:
 
 > *A Certificate of Incorporation is a document submitted by a business within the state it wishes to be headquartered. For example, a Delaware company only exists after the Secretary of State has received a company’s certificate of incorporation. Usually, this document is short because there are only a few requirements for it to provide enough information to the state.*
 
@@ -51,10 +51,15 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**NVCA - Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) 
 
-#### 📋 Bylaws:
+##### 📋 Bylaws:
 
 * [**Techstars - Series AA Bylaws**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-model-bylaws1.doc)
-   
+
+#### LLC:
+##### 📋 Operating Agreement:
+
+* [New York LLC Operating Agreement (Multi-Member)](https://eforms.com/operating-agreements/ny/new-york-multi-member-llc-operating-agreement-form/) / / [.doc](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.docx) / / [.pdf](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.pdf) / / [*OpenLaw Template*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member))
+
 ### |📜| Financing |💰|
 
 > [**Series Seed**](https://github.com/CooleyLLP/seriesseed): a standardized set of legal documents that can be quickly and easily deployed for a seed investment round. Startup Starter Pack utilizes Cooley LLP's "Series Seed Fork" from the [original Series Seed repo](https://github.com/seriesseed/equity), as this set reflects more recent updates.
