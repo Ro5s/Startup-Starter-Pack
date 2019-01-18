@@ -23,7 +23,10 @@ Listed resources should include (as available):
 * 🧥*Get more form*:
 📋 [**LLC Package (New York)**](https://app.openlaw.io/template/New%20York%20LLC%20Formation%20): This LLC Formation package includes simple forms for: (i) [*Articles of Organization*](https://app.openlaw.io/template/New%20York%20LLC%20Articles%20of%20Organization), and (ii) [*Operating Agreement*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member)).
 
-* 🌱*Get seed capital*
+* 💡*Get some advice*:
+📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) // alt: [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
+
+* 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / /
 📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing))
 
