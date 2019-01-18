@@ -15,10 +15,10 @@ Listed resources should include (as available):
 > * [Extended description](.github/Descriptions/) for further reference.
 
 ## ⚡ Starters:
-> Tailored sets of agreements for common startup needs 🚀:
+> Tailored sets of agreements for common startup needs 🚀: 
 
 * 💪*Get serious*:
-📋 [**Founder Accord**](https://app.openlaw.io/template/Founder%20Accord): This template consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.
+📋 [**Founder Accord**](https://app.openlaw.io/template/Founder%20Accord): This form consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.
 
 * 🧥*Get more form*:
 📋 [**LLC Package (New York)**](https://app.openlaw.io/template/New%20York%20LLC%20Formation%20): This LLC Formation package includes simple forms for: (i) [*Articles of Organization*](https://app.openlaw.io/template/New%20York%20LLC%20Articles%20of%20Organization), and (ii) [*Operating Agreement*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member)).
