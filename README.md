@@ -84,7 +84,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
-* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit) / / [.md](.github/Markdown/Shared-Earnings-Agreement.md)
+* [**Shared Earnings Agreement**](https://earnestcapital.com/shared-earnings-agreement/) / / [EC Google Doc](https://docs.google.com/document/d/1MoLiH_VnhX-0vfZ1zgMSfpcIt0rdyD9rc27BbypplDI/edit) / / [.md](.github/Markdown/Shared-Earnings-Agreement.md) / / [*OpenLaw Template*](https://app.openlaw.io/template/Shared%20Earnings%20Agreement)
 
 > see: [SEAL Calculator](https://docs.google.com/spreadsheets/d/1h_L7oa3rbV8P-ZnMM-l1fY5zc97GetYkRjQ_zCi6by4/edit#gid=0)
 
