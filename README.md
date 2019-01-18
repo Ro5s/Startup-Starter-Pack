@@ -29,8 +29,7 @@ Listed resources should include (as available):
 * 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / / equity alt:
 📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing))
-
-See also [Extended Shared Earnings Agreement Description](.github/Descriptions/SEA-Description.md).
+> See also [Extended Shared Earnings Agreement Description](.github/Descriptions/SEA-Description.md).
 
 * 🏗️*Get incorporated*: 
 📋 [**Corp. Package (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Corp. Package includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).
