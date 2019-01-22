@@ -20,10 +20,13 @@ Listed resources should include (as available):
 * 💪*Get serious*:
 📋 [**Founder Accord**](https://app.openlaw.io/template/Founder%20Accord): This form consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.
 
-* 🧥*Get more form*:
+* 🤞*Get square*
+📋 [**NVCA Code of Conduct Policy**](https://app.openlaw.io/template/Code%20of%20Conduct%20Policy%20(NVCA)) / / open-source project alt: [**Contributor Covenant**](https://app.openlaw.io/template/Contributor%20Covenant) 
+
+* 🧥*Get form*:
 📋 [**LLC Package (New York)**](https://app.openlaw.io/template/New%20York%20LLC%20Formation%20): This LLC Formation package includes simple forms for: (i) [*Articles of Organization*](https://app.openlaw.io/template/New%20York%20LLC%20Articles%20of%20Organization), and (ii) [*Operating Agreement*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member)).
 
-* 💡*Get some advice*:
+* 💡*Get advice*:
 📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) / / general alt: [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
 
 * 🌱*Get seed capital*:
@@ -36,6 +39,7 @@ Listed resources should include (as available):
 
 * 💻*Get online*:
 📋 [**Website Package**](https://app.openlaw.io/template/Deal%3A%20Terms%20of%20Use%20%26%20Privacy%20Policy): This Website Package includes simple forms for: (i) [Terms of Use](https://app.openlaw.io/template/Terms%20of%20Use), and (ii) [Privacy Policy](https://app.openlaw.io/template/Privacy%20Policy).
+
 
 
 ## 📚 Library:
