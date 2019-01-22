@@ -15,7 +15,7 @@ Listed resources should include (as available):
 > * [Extended description](.github/Descriptions/) for further reference.
 
 ## ⚡ Starters:
-> Tailored sets of agreements for common startup needs 🚀: 
+> Tailored sets of agreements for common startup needs 🚀 *deployed via [OpenLaw.io](https://openlaw.io):*
 
 * 💪*Get serious*
 📋 [**Founder Accord**](https://app.openlaw.io/template/Founder%20Accord): This form consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.
