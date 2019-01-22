@@ -195,7 +195,12 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 * [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
 
 * [**Terms of Use**](https://openlaw.io/terms?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Terms%20of%20Use)
+
 * [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Privacy%20Policy)
+
+* [**Contributor Covenant**](https://www.contributor-covenant.org) / / [.md](https://www.contributor-covenant.org/version/1/4/code-of-conduct.md) / / [*OpenLaw Template*](https://app.openlaw.io/template/Contributor%20Covenant)
+
+> *A common form of 'Code of Conduct' for open-source collaboration.*
 
 * [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
 
