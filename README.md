@@ -212,6 +212,8 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 * [**Terms of Use**](https://openlaw.io/terms?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Terms%20of%20Use)
 
+> *Generalized ToU adapted from OpenLaw.io website.*
+
 #### Privacy Policy 
 * [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Privacy%20Policy)
 
