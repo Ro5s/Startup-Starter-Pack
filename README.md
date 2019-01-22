@@ -96,7 +96,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars - Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
 
-* [**Y-Combinator - Series AA Term Sheet**](https://www.docracy.com/5/y-combinator-series-aa-termsheet) / / [.doc](https://www.docracy.com/word/5/3/y-combinator-series-aa-termsheet.doc) / / [.pdf](https://www.docracy.com/pdf/5/3)
+* [**Y-Combinator - Series AA Term Sheet**](https://www.docracy.com/5/y-combinator-series-aa-termsheet) / / [.doc](https://www.docracy.com/word/5/3/y-combinator-series-aa-termsheet.doc) / / [.pdf](https://www.docracy.com/pdf/5/3) / / [*OpenLaw Template*](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
 
 * [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
