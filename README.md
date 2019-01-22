@@ -200,7 +200,7 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 #### Code of Conduct
 
-* [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
+* [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/) / / [*OpenLaw Template*](https://app.openlaw.io/template/Code%20of%20Conduct%20Policy%20(NVCA))
 
 > *NVCA Sample Code of Conduct Policy for a Company/Firm to Adopt; per NVCA, reflects "the work product of a coalition of venture capital firms, H.R. professionals, and legal/employment professionals."*  
 
