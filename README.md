@@ -21,18 +21,17 @@ Listed resources should include (as available):
 📋 [**Founder Accord**](https://app.openlaw.io/template/Founder%20Accord): This form consists of a short and simple founders' agreement that lays out the most basic structure for collaborating on a new idea or project that may develop into a company.
 
 * 🤞*Get square*
-📋 [**NVCA Code of Conduct Policy**](https://app.openlaw.io/template/Code%20of%20Conduct%20Policy%20(NVCA)) / / open-source project alt: [**Contributor Covenant**](https://app.openlaw.io/template/Contributor%20Covenant) 
+📋 [**NVCA Code of Conduct Policy**](https://app.openlaw.io/template/Code%20of%20Conduct%20Policy%20(NVCA)) / / open-source project alt: 📋 [**Contributor Covenant**](https://app.openlaw.io/template/Contributor%20Covenant) 
 
 * 🧥*Get form*:
 📋 [**LLC Package (New York)**](https://app.openlaw.io/template/New%20York%20LLC%20Formation%20): This LLC Formation package includes simple forms for: (i) [*Articles of Organization*](https://app.openlaw.io/template/New%20York%20LLC%20Articles%20of%20Organization), and (ii) [*Operating Agreement*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member)).
 
 * 💡*Get advice*:
-📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) / / general alt: [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
+📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) / / general alt: 📋 [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
 
 * 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / / equity alt:
-📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing))
-> See also [Extended Shared Earnings Agreement Description](.github/Descriptions/SEA-Description.md).
+📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing)) / 📋  [**Y-Combinator Series AA Term Sheet**](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
 
 * 🏗️*Get incorporated*: 
 📋 [**Corp. Package (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Corp. Package includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).
