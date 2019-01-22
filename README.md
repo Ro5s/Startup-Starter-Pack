@@ -188,23 +188,42 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 > *Developed by the Founder Institute to encourage collaboration between entrepreneurs and other domain experts to build meaningful and enduring technology companies. FAST allows any mentor, any advisor or any domain expert to quickly engage with and assist a fast growing technology company at any stage using fair terms for preset equity compensation.*
 
 ### |💼| Business Basics |⚓|
-* [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
+
+#### Employee Offer Letter
+[WIP]
+
+#### Mutual NDA
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
 
+* [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA))
+
+#### Code of Conduct
+
 * [**NVCA Code of Conduct Policy**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/60966/)
 
-* [**Terms of Use**](https://openlaw.io/terms?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Terms%20of%20Use)
-
-* [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Privacy%20Policy)
+> *NVCA Sample Code of Conduct Policy for a Company/Firm to Adopt; per NVCA, reflects "the work product of a coalition of venture capital firms, H.R. professionals, and legal/employment professionals."*  
 
 * [**Contributor Covenant**](https://www.contributor-covenant.org) / / [.md](https://www.contributor-covenant.org/version/1/4/code-of-conduct.md) / / [*OpenLaw Template*](https://app.openlaw.io/template/Contributor%20Covenant)
 
 > *A common form of 'Code of Conduct' for open-source collaboration.*
 
+#### Terms of Use/Service
+
+* [**Terms of Use**](https://openlaw.io/terms?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Terms%20of%20Use)
+
+#### Privacy Policy 
+* [**Privacy Policy**](https://openlaw.io/privacy?ref=footer) / / [*OpenLaw Template*](https://app.openlaw.io/template/Privacy%20Policy)
+
+> *Generalized Privacy Policy adapted from OpenLaw.io website.*
+
+#### Sales Agreement
 * [**Y-Combinator Sales Agreement**](https://www.ycombinator.com/sales_agreement/) / / [.doc](https://www.ycombinator.com/docs/YC_Form_SaaS_Agreement.doc)
 
 > *In 2015, Y Combinator open sourced its sales template for the benefit of all startups. The sales template here is specially tailored for software-as-a-service (SaaS) startups – i.e. companies who charge for cloud software on a subscription basis.* 
+
+#### Independent Contractor Agreement
+[WIP]
 
 #### Contributors / Contributions Welcome
 
