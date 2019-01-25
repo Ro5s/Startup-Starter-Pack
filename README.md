@@ -29,6 +29,9 @@ Listed resources should include (as available):
 * 💡*Get advice*
 📋 [**Founder Advisor Standard Template (FAST)**](https://app.openlaw.io/template/Founder%20Advisor%20Standard%20Template%20(FAST)) / / general alt: 📋 [**Advisor Agreement**](https://app.openlaw.io/template/Advisor%20Agreement)
 
+* 🤐 *Get confidential*
+📋 [**Mutual Non-Dislosure Agreement (NDA)**](https://app.openlaw.io/template/Mutual%20Non-disclosure%20Agreement%20(NDA): This form consists of a simple NDA to structure a confidential relationship between two parties (often used to protect trade secrets or other proprietary information).
+
 * 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / / equity alt:
 📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing)) / 📋  [**Y-Combinator Series AA Term Sheet**](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
