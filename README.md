@@ -195,6 +195,12 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 #### Employee Offer Letter
 [WIP]
 
+#### Innovator's Patent Agreement
+
+> *The IPA is a new way to do patent assignment that keeps control in the hands of engineers and designers. It is a commitment from Twitter to our employees that patents can only be used for defensive purposes. We will not use the patents from employees’ inventions in offensive litigation without their permission. What’s more, this control flows with the patents, so if we sold them to others, they could only use them as the inventor intended.*
+
+* [**Innovator's Patent Agreement**](https://blog.twitter.com/official/en_us/a/2012/introducing-the-innovator-s-patent-agreement.html) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Innovators-Patent-Agreement.md)
+
 #### Mutual NDA
 
 > *A Mutual Non-Disclosure Agreement (NDA) essentially creates a confidential relationship between two parties and is often used to protect trade secrets or other proprietary information.* 
