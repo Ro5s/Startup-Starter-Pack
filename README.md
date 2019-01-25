@@ -34,7 +34,7 @@ Listed resources should include (as available):
 
 * 🌱*Get seed capital*:
 📋 [**Shared Earnings Agreement**](https://app.openlaw.io/template/Shared%20Earnings%20Agreement) / / equity alt:
-📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing)) / 📋  [**Y-Combinator Series AA Term Sheet**](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
+📋 [**'Series Seed' Term Sheet (Equity)**](https://app.openlaw.io/template/Series%20Seed%20-%20Term%20Sheet%20(Equity%20Financing)) / 📋  [**Y Combinator Series AA Term Sheet**](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet) / 📋 [**Y Combinator SAFE**](https://app.openlaw.io/template/Y%20Combinator%20SAFE)
 
 * 🏗️*Get incorporated* 
 📋 [**Corp. Package (Delaware)**](https://app.openlaw.io/template/Incorporation%20(Delaware)): This Corp. Package includes simple forms for: (i) [*Action by Written Consent of Sole Incorporator*](https://app.openlaw.io/template/Action%20by%20Written%20Consent%20of%20Sole%20Incorporator), (ii) [*Certificate of Incorporation*](https://app.openlaw.io/template/Certificate%20of%20Incorporation), (iii) [*Action by Unanimous Written Consent*](https://app.openlaw.io/template/Action%20by%20Unanimous%20Written%20Consent), (iv) [*Bylaws*](https://app.openlaw.io/template/Bylaws), and (v) [*Certificate of Secretary*](https://app.openlaw.io/template/Certificate%20of%20Secretary).
@@ -65,7 +65,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars - Series AA Restated Articles of Incorporation**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-series-aa-amended-and-restated-articles-of-incorporation1.doc)
 
-* [**Y-Combinator - Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
+* [**Y Combinator - Series AA Certificate of Incorporation**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_COI.docx)
 
 * [**NVCA - Certificate of Incorporation**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5059/) 
 
@@ -76,7 +76,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 #### LLC:
 ##### 📋 Operating Agreement:
 
-* [New York LLC Operating Agreement (Multi-Member)](https://eforms.com/operating-agreements/ny/new-york-multi-member-llc-operating-agreement-form/) / / [.doc](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.docx) / / [.pdf](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.pdf) / / [*OpenLaw Template*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member))
+* [**New York LLC Operating Agreement (Multi-Member)**](https://eforms.com/operating-agreements/ny/new-york-multi-member-llc-operating-agreement-form/) / / [.doc](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.docx) / / [.pdf](https://eforms.com/download/2016/01/new-york-multi-member-llc-operating-agreement-template.pdf) / / [*OpenLaw Template*](https://app.openlaw.io/template/New%20York%20LLC%20Operating%20Agreement%20(Multi-Member))
 
 ### |📜| Financing |💰|
 
@@ -84,7 +84,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 > [**Techstars**](https://www.techstars.com/content/blog/techstars-model-seed-funding-documents/): a set of model documents for an angel or seed financing in the $250k-$2M range (*represents “light” preferred equity financing and has very simple terms that are generally “balanced” but if anything lean toward the entrepreneurs and represents a great deal of trust in them*).
 
-> [**Y-Combinator**](https://old.ycombinator.com/seriesaa/): a set of Series AA Equity Financing Documents originally created for YC-funded startups to use when raising equity rounds with angels, with the goal of making these financings easier and more streamlined for both sides. 
+> [**Y Combinator**](https://old.ycombinator.com/seriesaa/): a set of Series AA Equity Financing Documents originally created for YC-funded startups to use when raising equity rounds with angels, with the goal of making these financings easier and more streamlined for both sides. 
 
 > [**National Venture Capital Association (NVCA)**](): a "template" set of model legal documents for venture capital investments put together by a group of leading venture capital attorneys. 
 
@@ -98,7 +98,7 @@ For additional details, see [Extended Founder Accord Description](.github/Descri
 
 * [**Techstars - Bridge Term Sheet (Convertible Note)**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/TechStars_Bridge_Term_Sheet1.doc)
 
-* [**Y-Combinator - Series AA Term Sheet**](https://www.docracy.com/5/y-combinator-series-aa-termsheet) / / [.doc](https://www.docracy.com/word/5/3/y-combinator-series-aa-termsheet.doc) / / [.pdf](https://www.docracy.com/pdf/5/3) / / [*OpenLaw Template*](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
+* [**Y Combinator - Series AA Term Sheet**](https://www.docracy.com/5/y-combinator-series-aa-termsheet) / / [.doc](https://www.docracy.com/word/5/3/y-combinator-series-aa-termsheet.doc) / / [.pdf](https://www.docracy.com/pdf/5/3) / / [*OpenLaw Template*](https://app.openlaw.io/template/Y-Combinator%20Series%20AA%20Term%20Sheet)
 
 * [**NVCA - Series A Term Sheet**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5091/) 
 
@@ -116,7 +116,7 @@ For additional details, see [Extended SEA Description](.github/Descriptions/SEA-
 
 * [**Techstars - Series AA Subscription Agreement**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-subscription-agreement1.doc) 
 
-* [**Y-Combinator - Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
+* [**Y Combinator - Series AA Stock Purchase Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_SPA.docx)
 
 * [**NVCA - Series A Stock Purchase Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5088/)
 
@@ -147,13 +147,13 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 * [**Techstars - Series AA Board Consent**](https://github.com/ahmadnassri/awesome-startup-resources) / / [.doc](http://www.techstars.com/uploads/techstars-model-series-aa-board-member-election-consent1.doc)
 
-* [**Y-Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
+* [**Y Combinator Series AA Board Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Board_Consent.docx)
 
 #### 📋 Stockholder Consent:
 
 * [**Series Seed - Stockholder Consent**](https://github.com/CooleyLLP/seriesseed/blob/master/equity/Series%20Seed%20-%20Stockholder%20Consent.md) / / [.md](https://github.com/Ro5s/Startup-Starter-Pack/blob/master/.github/Markdown/Series-Seed-Stockholder-Consent.md)
 
-* [**Y-Combinator - Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
+* [**Y Combinator - Series AA Stockholder Consent**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_Stockholder_Consent.docx)
 
 #### 📋 Voting Agreement:
 
@@ -173,7 +173,7 @@ For additional details, see [YC Extended SAFE Description](https://www.ycombinat
 
 #### 📋 Investors' Rights Agreement:
 
-* [**Y-Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
+* [**Y Combinator Series AA Investors' Rights Agreement**](https://old.ycombinator.com/seriesaa/) / / [.doc](https://old.ycombinator.com/seriesaa/Series_AA_IRA.docx)
 
 * [**NVCA - Series A Investor Rights Agreement**](https://nvca.org/resources/model-legal-documents/) / / [.doc](https://nvca.org/download/5066/)
 
